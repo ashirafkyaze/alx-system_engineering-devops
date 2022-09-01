@@ -1,2 +1,1 @@
-look in the mirror
-directories
+change group owner
