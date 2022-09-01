@@ -1,1 +1,1 @@
-permisson to user group owner
+permission to owner,group owner,read to other
