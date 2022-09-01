@@ -1,1 +1,1 @@
-sets the mode of file
+look in the mirror
