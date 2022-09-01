@@ -1,1 +1,1 @@
-effective username of the current user
+ groups the current user 
