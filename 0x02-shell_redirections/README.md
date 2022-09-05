@@ -1,1 +1,1 @@
-No more javascript
+count number of directoires
