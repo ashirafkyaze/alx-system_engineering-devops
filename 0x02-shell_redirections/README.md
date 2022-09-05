@@ -1,1 +1,1 @@
-Content of /etc/passwd file
+last lines of a file
