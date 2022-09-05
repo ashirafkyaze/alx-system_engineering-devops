@@ -1,1 +1,1 @@
-prints Heelo World followed by a new line to stdout
+Content of /etc/passwd file
