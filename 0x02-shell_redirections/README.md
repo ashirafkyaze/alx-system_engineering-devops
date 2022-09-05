@@ -1,1 +1,1 @@
-duplicate last line of iacta
+No more javascript
