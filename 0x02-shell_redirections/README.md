@@ -1,1 +1,1 @@
-dispalys 
+create file and contai text 
